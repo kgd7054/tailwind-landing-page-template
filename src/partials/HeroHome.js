@@ -54,7 +54,8 @@ function HeroHome() {
 								data-aos-delay='150'>
 								Our landing page template works on all devices,
 								so you only have to set it up once, and get
-								beautiful results forever.
+								beautiful results forever. BEB_부트캠프 배포실습
+								신기하구먼유
 							</p>
 							<div
 								className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center'
